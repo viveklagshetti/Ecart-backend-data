@@ -5,30 +5,6 @@
       "name": "Vivek Lagshetti",
       "email": "example@1234",
       "password": "1234"
-    },
-    {
-      "email": "admin1234@gmail.com",
-      "password": "1234",
-      "name": "Vivek Lagshetti",
-      "id": 2
-    },
-    {
-      "email": "lagshetti1234@gmail.com",
-      "password": "111",
-      "name": "Ramesh Laghsetti",
-      "id": 3
-    },
-    {
-      "email": "virat123@gmail.com",
-      "password": "virat",
-      "name": "virat ",
-      "id": 4
-    },
-    {
-      "email": "viveklagshetti123@gmail.com",
-      "password": "vivek",
-      "name": "Vivek Lagshetti",
-      "id": 5
     }
   ],
   "products": [
